@@ -1,0 +1,18 @@
+{
+	"id": "target-improvements",
+	"title": "Target Improvements",
+	"version": "1.0.0",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11"
+	},
+	"esmodules": ["main.js"],
+	"description": "Multi-targeting becomes standard behavior and \"ESC\" unselects all.",
+	"authors": [
+		{
+			"name": "elizeuangelo",
+			"flags": {}
+		}
+	],
+	"url": "https://github.com/elizeuangelo/fvtt-module-target-improvements"
+}
